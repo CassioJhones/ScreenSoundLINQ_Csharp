@@ -1,0 +1,14 @@
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\bin\Debug\net6.0\ScreenSoundLINT.exe
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\bin\Debug\net6.0\ScreenSoundLINT.deps.json
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\bin\Debug\net6.0\ScreenSoundLINT.runtimeconfig.json
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\bin\Debug\net6.0\ScreenSoundLINT.dll
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\bin\Debug\net6.0\ScreenSoundLINT.pdb
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.AssemblyInfoInputs.cache
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.AssemblyInfo.cs
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.dll
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\refint\ScreenSoundLINT.dll
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.pdb
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ScreenSoundLINT.genruntimeconfig.cache
+C:\Users\cassi\Documents\ScreenSoundLINT\ScreenSoundLINT\obj\Debug\net6.0\ref\ScreenSoundLINT.dll
